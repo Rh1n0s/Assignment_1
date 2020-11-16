@@ -1,0 +1,68 @@
+#header
+{
+	float: right;
+	font-size: 50;
+	font-style: Comic Sans MS;
+	color: gold;
+	border-style: solid;
+	border-width: 10px;
+	background: gold;
+	
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+body
+{
+	background: rgb(0, 255, 128);
+	font-style: arial;
+	font-size: 25;
+	
+	
+	
+	
+}
+
+.Subheading_1
+{
+	font-weight: bold;
+	font-size: 35;
+	border-style: double;
+	font-style: courier new;
+	text-decoration: underline;
+	border-width: 15px;
+	height: 100px;
+	border-color: blue;
+}
+.Subheading_2
+{
+	font-size: 35px;
+	border-style: groove;
+	border-color: blue;
+	font-weight: bold;
+	text-decoration: underline;
+	border-width: 10px;
+	text-align: center; 
+
+
+
+
+
+
+}
+
+
+img
+{
+	border-color: black;
+	border-style: solid;
+	border-width: 25px;
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	
+}
