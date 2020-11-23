@@ -7,7 +7,6 @@
 	border-style: solid;
 	border-width: 10px;
 	background: gold;
-	
 }
 
 a{
@@ -21,10 +20,6 @@ body
 	background: rgb(0, 255, 128);
 	font-style: arial;
 	font-size: 25;
-	
-	
-	
-	
 }
 
 .Subheading_1
@@ -47,12 +42,6 @@ body
 	text-decoration: underline;
 	border-width: 10px;
 	text-align: center; 
-
-
-
-
-
-
 }
 
 
@@ -64,5 +53,17 @@ img
 	height: 300px;
 	width: 300px;
 	position: absolute;
-	
 }
+
+#footer
+{
+	text-align: center;
+	background: red;
+}
+
+
+	
+	
+	
+	
+	
