@@ -69,13 +69,13 @@ body
 
 .Subheading_2
 {
-	font-size: 35px;
-	border-style: groove;
-	border-color: blue;
-	font-weight: bold;
-	text-decoration: underline;
-	border-width: 10px;
-	text-align: center; 
+	font-size: 35px; 
+	border-style: groove; 
+	border-color: blue; 
+	font-weight: bold; 
+	text-decoration: underline; 
+	border-width: 10px; 
+	text-align: center;	
 }
 
 .Subheading_3

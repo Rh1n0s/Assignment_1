@@ -2,9 +2,28 @@
   <head>
         <title>My Portfolio Site</title>
 		<link rel="stylesheet" type="text/css" href="css/styles.css">
-  </head>
+		
+  <script>
+
+    function show()
+	  {
+		  var div = document.getElementById("Picture_Of_Me");
+		  div.style.display = "block";
+		  
+	   }
     
-	
+    function hide()
+		{
+		  var div = document.getElementById("Picture_Of_Me");
+		  div.style.display = "none";
+		  
+		}	
+		
+
+		
+  </script>		
+  </head>
+  
 	
   <body>
       <div id="header">
@@ -21,8 +40,11 @@
 		 <p> Filler Stuff That can be placed later</p>
 		 </div>
 <div id="MovementofPic">
-<p> <span class="Subheading_2">Picture Of Me</p>	     
+<p><span class="Subheading_2"><a onclick="show( 'Picture_Of_Me' )" href="#">Picture Of Me</a></p>
+<div id="MovementofPic">
+<div id="Picture_Of_Me">
 <img style="width: 300px; height: 300px"  src="images/Me_For_Now.png">
+<a onclick="hide( 'Picture_Of_Me' )" href="#">Close</a>
 </div>
         
                                      
