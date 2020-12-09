@@ -101,6 +101,8 @@ body
   font-size: 35px;
   border-width: 10px;
   text-decoration: underline;
+  border-style: dotted;
+  border-color: blue;
 }
 
 img
@@ -175,4 +177,10 @@ img
 	background: white;
 	text-align: left;
 	height: 600px;
+}
+
+.Download
+{
+	font-size: 23.5;
+	font-style: courier new;
 }
